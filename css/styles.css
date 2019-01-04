@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(220,220,220);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: darkred;
+    /*
+    text-decoration: darkred underline;
+    */
+}
+
+.blackUnderline {
+    text-decoration: black underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.explosions {
+    color: red;
+    font-weight: bolder;
+}
