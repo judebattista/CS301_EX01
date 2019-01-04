@@ -5,6 +5,7 @@ body {
 
 h2 {
     color: darkred;
+    text-align: center;
     /*
     text-decoration: darkred underline;
     */
@@ -21,4 +22,21 @@ h2 {
 .explosions {
     color: red;
     font-weight: bolder;
+}
+
+.floatRight {
+    float: right;
+}
+
+.left {
+    text-align: left;
+
+}
+
+.medImage {
+    width: 25%;
+}
+
+.strikethrough {
+    text-decoration: line-through;
 }
