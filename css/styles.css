@@ -1,42 +1,41 @@
 body {
-    background-color: rgb(220,220,220);
-    font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(220,220,220);
+  font-family: 'Courier New', Courier, monospace;
 }
 
 h2 {
-    color: darkred;
-    text-align: center;
-    /*
-    text-decoration: darkred underline;
-    */
+  color: darkred;
+  text-align: center;
+  /*
+  text-decoration: darkred underline;
+  */
 }
 
 .blackUnderline {
-    text-decoration: black underline;
+  text-decoration: black underline;
 }
 
 .bold {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .explosions {
-    color: red;
-    font-weight: bolder;
+  color: red;
+  font-weight: bolder;
 }
 
 .floatRight {
-    float: right;
+  float: right;
 }
 
 .left {
-    text-align: left;
-
+  text-align: left;
 }
 
 .medImage {
-    width: 25%;
+  width: 20%;
 }
 
 .strikethrough {
-    text-decoration: line-through;
+  text-decoration: line-through;
 }
